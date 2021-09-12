@@ -1,7 +1,6 @@
 package task3;
 
-import com.google.gson.annotations.SerializedName;
-import java.util.*;
+import java.util.List;
 
 public class Root {
     private List<Test> tests;
